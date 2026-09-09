@@ -256,7 +256,7 @@ The project can be further extended with additional features, unit tests, databa
 
 ## 👨‍💻 Author
 
-**BookStore – SOLID Principles Project**
+**Adeesha Bhanuka Hettiarachchi**
 
 📌 Developed for academic and learning purposes.
 
