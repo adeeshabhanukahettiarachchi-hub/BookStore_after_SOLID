@@ -1,8 +1,11 @@
 package org.example.invoice;
 
 
+import org.example.model.Book;
+import org.example.model.Purchase;
+
 public class TextInvoiceFormatter implements InvoiceFormatter {
-    public String format(Purchase purchase,double total){
+    public String format(Purchase purchase, double total){
         StringBuilder invoice=new StringBuilder("===== BOOKSTORE INVOICE =====\n");
         invoice.append("Customer: ").append(purchase.getCustomer().getName()).append("\n");
         for(Book book:purchase.getBooks())

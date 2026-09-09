@@ -1,0 +1,5 @@
+===== BOOKSTORE INVOICE =====
+Customer: Adeesha Bhanuka
+Clean Code - Rs. 4500.00
+Head First Java - Rs. 3900.00
+Total: Rs. 8400.00

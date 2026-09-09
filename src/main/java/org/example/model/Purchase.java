@@ -1,5 +1,9 @@
 package org.example.model;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class Purchase {
     private final int id; private final Customer customer; private final List<Book> books=new ArrayList<>();
     public Purchase(int id,Customer customer){this.id=id;this.customer=customer;}
